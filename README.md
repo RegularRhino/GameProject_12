@@ -1,3 +1,5 @@
+Developed in Unreal Engine 5
+
 Repository for BA2b project.
 
 Miro Link:
