@@ -1,3 +1,7 @@
-# GameProject_12
+Repository for BA2b project.
 
-Developed with Unreal Engine 5
+Miro Link:
+https://miro.com/app/board/uXjVG3zbt44=/
+
+Trello Link:
+https://trello.com/b/AIxTkclB/group-12-ba2b
